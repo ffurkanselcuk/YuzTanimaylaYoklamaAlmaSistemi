@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc813884-5d90-4044-9571-8fb7c54d9612": {
+      "ProjectGuid": "cc813884-5d90-4044-9571-8fb7c54d9612",
+      "DisplayName": "ImageProcessingAttendance",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

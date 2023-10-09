@@ -1,0 +1,87 @@
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\bin\Debug\Emgu.CV.xml
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\bin\Debug\Emgu.Util.xml
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\obj\x86\Debug\ImageProcessingAttendance.csproj.GenerateResource.Cache
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\obj\x86\Debug\ImageProcessingAttendance.csprojResolveAssemblyReference.cache
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\bin\Debug\Attendance.mdf
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\bin\Debug\Attendance_log.ldf
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Student_Entry.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Student_Entry_Record.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\obj\x86\Debug\ImageProcessingAttendance.csprojResolveAssemblyReference.cache
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.CongratuationMessage.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Student_Entry.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Student_Entry_Record.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\obj\x86\Debug\ImageProcessingAttendance.csproj.GenerateResource.Cache
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\bin\Debug\Attendance.mdf
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\bin\Debug\Attendance_log.ldf
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.xml
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.Util.xml
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\bin\Debug\Attendance.mdf
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\bin\Debug\Attendance_log.ldf
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.xml
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\bin\Debug\Emgu.Util.xml
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\obj\x86\Debug\ImageProcessingAttendance.csprojResolveAssemblyReference.cache
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.CongratuationMessage.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Student_Entry.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Student_Entry_Record.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\EDUCATION\THEIRD YEAR\3rd year 2nd term\LAB\CSE-Web Programming Project-3200\FaceRecProOV (1)\FaceRecProOV\FaceRecProOV\FaceRecProOV\obj\x86\Debug\ImageProcessingAttendance.csproj.GenerateResource.Cache
+D:\downloads\Face-Detection-Based-Attendance-System-master\bin\Debug\Attendance.mdf
+D:\downloads\Face-Detection-Based-Attendance-System-master\bin\Debug\Attendance_log.ldf
+D:\downloads\Face-Detection-Based-Attendance-System-master\bin\Debug\MultiFaceRec.exe
+D:\downloads\Face-Detection-Based-Attendance-System-master\bin\Debug\MultiFaceRec.pdb
+D:\downloads\Face-Detection-Based-Attendance-System-master\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\downloads\Face-Detection-Based-Attendance-System-master\bin\Debug\stdole.dll
+D:\downloads\Face-Detection-Based-Attendance-System-master\bin\Debug\Emgu.CV.xml
+D:\downloads\Face-Detection-Based-Attendance-System-master\bin\Debug\Emgu.CV.UI.xml
+D:\downloads\Face-Detection-Based-Attendance-System-master\bin\Debug\Emgu.Util.xml
+D:\downloads\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\ImageProcessingAttendance.csproj.AssemblyReference.cache
+D:\downloads\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\MultiFaceRec.CongratuationMessage.resources
+D:\downloads\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\MultiFaceRec.Student_Entry.resources
+D:\downloads\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\MultiFaceRec.Student_Entry_Record.resources
+D:\downloads\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+D:\downloads\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\downloads\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\ImageProcessingAttendance.csproj.GenerateResource.cache
+D:\downloads\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\ImageProcessingAttendance.csproj.CoreCompileInputs.cache
+D:\downloads\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\ImageProcessingAttendance.csproj.CopyComplete
+D:\downloads\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\MultiFaceRec.exe
+D:\downloads\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\Attendance.mdf
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\Attendance_log.ldf
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\MultiFaceRec.exe
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\MultiFaceRec.pdb
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\Emgu.CV.xml
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\Emgu.CV.UI.xml
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\Emgu.Util.xml
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\ImageProcessingAttendance.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\ImageProcessingAttendance.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\ImageProcessingAttendance.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\ImageProcessingAttendance.csproj.CopyComplete
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\YuzTanima.CongratuationMessage.resources
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\YuzTanima.Student_Entry.resources
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\YuzTanima.Student_Entry_Record.resources
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\YuzTanima.FrmPrincipal.resources

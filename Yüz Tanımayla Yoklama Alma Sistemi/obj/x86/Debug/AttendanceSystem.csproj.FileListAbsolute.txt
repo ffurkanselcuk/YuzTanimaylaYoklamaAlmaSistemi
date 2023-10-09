@@ -1,0 +1,80 @@
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\Attendance.mdf
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\Attendance_log.ldf
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\MultiFaceRec.exe
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\MultiFaceRec.pdb
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\Emgu.CV.xml
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\Emgu.CV.UI.xml
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\bin\Debug\Emgu.Util.xml
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\AttendanceSystem.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\YuzTanima.CongratuationMessage.resources
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\YuzTanima.Student_Entry.resources
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\YuzTanima.Student_Entry_Record.resources
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\YuzTanima.FrmPrincipal.resources
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\AttendanceSystem.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\AttendanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\AttendanceSystem.csproj.CopyComplete
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\PC\Desktop\Face-Detection-Based-Attendance-System-master\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\PC\Desktop\1 - Kopya\bin\Debug\Attendance.mdf
+C:\Users\PC\Desktop\1 - Kopya\bin\Debug\Attendance_log.ldf
+C:\Users\PC\Desktop\1 - Kopya\bin\Debug\MultiFaceRec.exe
+C:\Users\PC\Desktop\1 - Kopya\bin\Debug\MultiFaceRec.pdb
+C:\Users\PC\Desktop\1 - Kopya\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\PC\Desktop\1 - Kopya\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\1 - Kopya\bin\Debug\Emgu.CV.xml
+C:\Users\PC\Desktop\1 - Kopya\bin\Debug\Emgu.CV.UI.xml
+C:\Users\PC\Desktop\1 - Kopya\bin\Debug\Emgu.Util.xml
+C:\Users\PC\Desktop\1 - Kopya\obj\x86\Debug\AttendanceSystem.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\1 - Kopya\obj\x86\Debug\YuzTanima.CongratuationMessage.resources
+C:\Users\PC\Desktop\1 - Kopya\obj\x86\Debug\YuzTanima.Student_Entry.resources
+C:\Users\PC\Desktop\1 - Kopya\obj\x86\Debug\YuzTanima.Student_Entry_Record.resources
+C:\Users\PC\Desktop\1 - Kopya\obj\x86\Debug\YuzTanima.FrmPrincipal.resources
+C:\Users\PC\Desktop\1 - Kopya\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\PC\Desktop\1 - Kopya\obj\x86\Debug\AttendanceSystem.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\1 - Kopya\obj\x86\Debug\AttendanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\1 - Kopya\obj\x86\Debug\AttendanceSystem.csproj.CopyComplete
+C:\Users\PC\Desktop\1 - Kopya\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\PC\Desktop\1 - Kopya\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\bin\Debug\Attendance.mdf
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\bin\Debug\Attendance_log.ldf
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\bin\Debug\MultiFaceRec.exe
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\bin\Debug\MultiFaceRec.pdb
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\bin\Debug\Emgu.CV.xml
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\bin\Debug\Emgu.Util.xml
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\obj\x86\Debug\AttendanceSystem.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\obj\x86\Debug\YuzTanima.CongratuationMessage.resources
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\obj\x86\Debug\YuzTanima.Student_Entry.resources
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\obj\x86\Debug\YuzTanima.Student_Entry_Record.resources
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\obj\x86\Debug\YuzTanima.FrmPrincipal.resources
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\obj\x86\Debug\AttendanceSystem.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\obj\x86\Debug\AttendanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\obj\x86\Debug\AttendanceSystem.csproj.CopyComplete
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\PC\Desktop\Attendance System With Facial Recognition\obj\x86\Debug\MultiFaceRec.pdb
+D:\downloads\Attendance System With Facial Recognition\bin\Debug\Attendance.mdf
+D:\downloads\Attendance System With Facial Recognition\bin\Debug\Attendance_log.ldf
+D:\downloads\Attendance System With Facial Recognition\bin\Debug\MultiFaceRec.exe
+D:\downloads\Attendance System With Facial Recognition\bin\Debug\MultiFaceRec.pdb
+D:\downloads\Attendance System With Facial Recognition\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\downloads\Attendance System With Facial Recognition\bin\Debug\stdole.dll
+D:\downloads\Attendance System With Facial Recognition\bin\Debug\Emgu.CV.xml
+D:\downloads\Attendance System With Facial Recognition\bin\Debug\Emgu.CV.UI.xml
+D:\downloads\Attendance System With Facial Recognition\bin\Debug\Emgu.Util.xml
+D:\downloads\Attendance System With Facial Recognition\obj\x86\Debug\AttendanceSystem.csproj.AssemblyReference.cache
+D:\downloads\Attendance System With Facial Recognition\obj\x86\Debug\YuzTanima.CongratuationMessage.resources
+D:\downloads\Attendance System With Facial Recognition\obj\x86\Debug\YuzTanima.Student_Entry.resources
+D:\downloads\Attendance System With Facial Recognition\obj\x86\Debug\YuzTanima.Student_Entry_Record.resources
+D:\downloads\Attendance System With Facial Recognition\obj\x86\Debug\YuzTanima.FrmPrincipal.resources
+D:\downloads\Attendance System With Facial Recognition\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+D:\downloads\Attendance System With Facial Recognition\obj\x86\Debug\AttendanceSystem.csproj.GenerateResource.cache
+D:\downloads\Attendance System With Facial Recognition\obj\x86\Debug\AttendanceSystem.csproj.CoreCompileInputs.cache
+D:\downloads\Attendance System With Facial Recognition\obj\x86\Debug\AttendanceSystem.csproj.CopyComplete
+D:\downloads\Attendance System With Facial Recognition\obj\x86\Debug\MultiFaceRec.exe
+D:\downloads\Attendance System With Facial Recognition\obj\x86\Debug\MultiFaceRec.pdb
