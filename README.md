@@ -1,3 +1,26 @@
+# YuzTanimaylaYoklamaAlmaSistemi
+
+YuzTanimaylaYoklamaAlmaSistemi, C# kullanılarak geliştirilmiş bir yüz tanıma tabanlı yoklama alma sistemidir. Bu proje, yüz tanıma teknolojisi kullanarak öğrencilerin yoklamalarını otomatik olarak kaydeder.
+
+## Özellikler
+
+- **Yüz Tanıma Teknolojisi:** Kamerayı kullanarak öğrencilerin yüzlerini tanır ve yoklamalarını kaydeder.
+- **Öğrenci Yönetimi:** Yeni öğrenciler ekleyebilir, mevcut öğrencileri güncelleyebilir ve silebilirsiniz.
+- **Yoklama Kayıtları:** Yoklama kayıtlarını görüntüleyebilir ve raporlayabilirsiniz.
+
+## Kurulum
+
+### Gereksinimler
+
+- Visual Studio veya uyumlu bir IDE
+- .NET Framework
+
+### Adımlar
+
+1. **Depoyu Kopyalayın:**
+    bash
+    git clone https://github.com/ffurkanselcuk/YuzTanimaylaYoklamaAlmaSistemi.git
+    cd YuzTanimaylaYoklamaAlmaSistemi
 2. **Projeyi Açın:**
    - Visual Studio veya uyumlu bir IDE ile projeyi açın.
 
